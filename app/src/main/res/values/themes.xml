@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.PizzaRecipes" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/pink_dark</item>
+        <item name="colorAccent">@color/pink</item>
+    </style>
+
+    <style name="Theme.PizzaRecipes" parent="Base.Theme.PizzaRecipes" />
+</resources>
