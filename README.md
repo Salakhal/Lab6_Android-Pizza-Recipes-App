@@ -41,6 +41,7 @@ L'application est structurée selon le modèle **Modèle-Vue-Contrôleur** pour 
 ---
   ## 📸 Captures d'Écran
 
+![lab6](https://github.com/user-attachments/assets/bdb9f577-8121-4f77-9c64-0458a1ec7f40)
 
     
 
