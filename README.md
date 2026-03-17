@@ -42,7 +42,7 @@ L'application est structurée selon le modèle **Modèle-Vue-Contrôleur** pour 
   ## 📸 Captures d'Écran
 
 
-
+    
 
 ---
 
@@ -51,6 +51,10 @@ L'application est structurée selon le modèle **Modèle-Vue-Contrôleur** pour 
 
 Voici un aperçu de l'application en cours d'utilisation, montrant la navigation entre la liste des pizzas et les détails d'une recette :
 
+
+
+
+https://github.com/user-attachments/assets/dfa3829d-8624-4a20-9c3f-b58b63d4ec60
 
 
 
